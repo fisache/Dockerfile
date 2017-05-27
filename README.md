@@ -1,2 +1,2 @@
 # Dockerfile
-# There are copies of Dockerfile for me.
+There are copies of Dockerfile for me.
